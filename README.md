@@ -1,1 +1,1 @@
-This is a project for demonstrating oops concepts using C++.
+"This is a project for demonstrating OOP concepts using C++."
